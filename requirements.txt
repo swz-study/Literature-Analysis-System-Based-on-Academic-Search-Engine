@@ -1,0 +1,7 @@
+jieba==0.38
+matplotlib==2.2.3
+numpy==1.15.1
+wordcloud==1.5.0
+beautifulsoup4==4.9.3
+PySide2==5.15.2
+res==0.1.7
